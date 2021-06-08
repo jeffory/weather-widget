@@ -1,5 +1,10 @@
 # Weather widget
 
+A simple weather widget using the [OpenWeather](https://openweathermap.org/) website's API to fetch weather data.
+
+A hosted version is available here:
+[https://d11wai8jdt8c8k.cloudfront.net](https://d11wai8jdt8c8k.cloudfront.net)
+
 ## Project setup
 ```
 npm i
@@ -19,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
