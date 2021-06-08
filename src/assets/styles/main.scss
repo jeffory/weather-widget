@@ -1,0 +1,23 @@
+body {
+  background: #0b5685;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#app {
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 30px;
+  text-align: center;
+}
+
+
+.text-small {
+  font-size: .85em;
+}
+
+h2 + h3 {
+  margin-top: 0;
+}
